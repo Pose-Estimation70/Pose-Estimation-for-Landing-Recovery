@@ -21,7 +21,7 @@
 
 <div style="font-size: 1.2em; line-height: 1.6;">
 
-<h3 style="color: #2d6db6; font-size: 1.4em;">🔍 Advanced Optical Vision Processing</h3>
+<h3 style="color: #2d6db6; font-size: 1.4em;">• Advanced Optical Vision Processing</h3>
 <p>
 • <strong>Guiding Light Detection (GLD):</strong> Robust detection in occluded/partial visibility conditions<br>
 • <strong>Minimum-Cost Feature Matching (MCFM):</strong> Reliable matching across varying AUV poses
