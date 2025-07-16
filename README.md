@@ -12,7 +12,13 @@
 <strong>Download Link:</strong><br>
 <span style="font-size: 1.3em;">👉 <a href="https://github.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/blob/main/demo.mp4" style="color: #0366d6; text-decoration: none;">Click to View Demo Video</a></span>
 </p>  
-<video src="https://video.github.io/?url=https://raw.githubusercontent.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/main/demo.mp4" controls autoplay width="800"></video>
+<!-- 视频封面图（点击图片跳转到播放页面） -->
+<p>
+  <a href="https://video.github.io/?url=https://raw.githubusercontent.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/main/demo.mp4" style="display: block; max-width: 800px;">
+    <img src="https://raw.githubusercontent.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/main/demo.jpg" alt="Demo Video Thumbnail" style="max-width: 100%; border-radius: 4px; cursor: pointer;">
+  </a>
+  <em style="color: #6a737d;">（点击上方封面图播放视频）</em>
+</p>
 <hr style="border: 1px solid #eaecef;">
 
 
