@@ -34,7 +34,7 @@
 
 <h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong> Fusion Pose Estimation (FPE) Framework</h3>
 <p>
-• <strong>Multi-Algorithm Integration:</strong> Combines PER and odometry <br>
+• <strong>Multi-Algorithms Integration:</strong> Combines PER and odometry <br>
 • <strong>Reliable Final-Stage Performance:</strong> Maintains accuracy during critical landing phase
 </p>
 
