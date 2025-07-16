@@ -14,7 +14,7 @@
 </p>  
 <!-- Video Thumbnail (Click to play) -->
 <p>
-  <a href="https://video.github.io/?url=https://raw.githubusercontent.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/main/demo.mp4" style="display: block; max-width: 800px;">
+  <a href="https://video.github.io/?url=https://github.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/blob/main/demo.mp4" style="display: block; max-width: 800px;">
     <img src="https://raw.githubusercontent.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/main/demo.jpg" alt="Demo Video Thumbnail" style="max-width: 100%; border-radius: 4px; cursor: pointer;">
   </a>
   <em style="color: #6a737d;">(Click the thumbnail above to play the video)</em>
