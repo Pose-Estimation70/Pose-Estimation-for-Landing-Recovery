@@ -28,8 +28,8 @@
 
 <h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong>  Pose Estimation Considering Refraction (PER)</h3>
 <p>
-• <strong>Monocular-Binocular PER:</strong> Novel refraction/distortion modeling<br>
-• <strong>Closed-Form Jacobian:</strong> Enables stable pose updates
+• <strong>Water-AIr Image Refraction Model:</strong> Novel refraction/distortion modeling<br>
+• <strong>MCPER and BCPER:</strong> Enables stable and accurate pose calculation 
 </p>
 
 <h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong> Fusion Pose Estimation (FPE) Framework</h3>
