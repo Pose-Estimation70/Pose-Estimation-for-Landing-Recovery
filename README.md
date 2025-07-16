@@ -10,8 +10,7 @@
 <h2 style="font-size: 1.8em; color: #24292e;">🎥 Demo Video</h2>
 <p style="font-size: 1.2em;">
 <strong>Download Link:</strong><br>
-<span style="font-size: 1.3em;">👉 <a href="https://pan.sjtu.edu.cn/web/preview/media?name=demo.mp4&path=&previewPage=1&spaceId=space2m8xvhp71best&from=share&spaceOrgId=1&showList=0&shareToken=fed2cb79b10caa302af0a0d0567f3d74&seq=0.8892785945636588" style="color: #0366d6; text-decoration: none;">Click to View Demo Video</a></span>  
-[![IMAGE ALT TEXT]([http://img.youtube.com/vi/"YOUR_VIDEO_ID"/0.jpg](https://github.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/blob/main/demo.jpg))]([https://www.youtube.com/watch?v="YOUR_VIDEO_ID" "YOUR_VIDEO_TITLE"](https://github.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/blob/main/demo.mp4))
+<span style="font-size: 1.3em;">👉 <a href="https://pan.sjtu.edu.cn/web/preview/media?name=demo.mp4&path=&previewPage=1&spaceId=space2m8xvhp71best&from=share&spaceOrgId=1&showList=0&shareToken=fed2cb79b10caa302af0a0d0567f3d74&seq=0.8892785945636588" style="color: #0366d6; text-decoration: none;">Click to View Demo Video</a></span>
 </p>
 
 <hr style="border: 1px solid #eaecef;">
