@@ -11,8 +11,8 @@
 <p style="font-size: 1.2em;">
 <strong>Download Link:</strong><br>
 <span style="font-size: 1.3em;">👉 <a href="https://github.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/blob/main/demo.mp4" style="color: #0366d6; text-decoration: none;">Click to View Demo Video</a></span>
-</p>
-
+</p>  
+<video src="https://video.github.io/?url=https://raw.githubusercontent.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/main/demo.mp4" controls autoplay width="800"></video>
 <hr style="border: 1px solid #eaecef;">
 
 
