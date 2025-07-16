@@ -11,6 +11,10 @@
 <p style="font-size: 1.2em;">
 <strong>Download Link:</strong><br>
 <span style="font-size: 1.3em;">👉 <a href="https://pan.sjtu.edu.cn/web/preview/media?name=demo.mp4&path=&previewPage=1&spaceId=space2m8xvhp71best&from=share&spaceOrgId=1&showList=0&shareToken=fed2cb79b10caa302af0a0d0567f3d74&seq=0.8892785945636588" style="color: #0366d6; text-decoration: none;">Click to View Demo Video</a></span>
+  <video controls width="100%">
+  <source src="视频文件的URL地址" type="deom.mp4">
+  你的浏览器不支持视频播放。
+</video>
 </p>
 
 <hr style="border: 1px solid #eaecef;">
