@@ -20,27 +20,27 @@
 
 <div style="font-size: 1.2em; line-height: 1.6;">
 
-<h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong> Advanced Optical Vision Processing</h3>
+<h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong> Optical Vision Processing (OVP) </h3>
 <p>
 • <strong>Guiding Light Detection (GLD):</strong> Robust detection in occluded/partial visibility conditions<br>
 • <strong>Minimum-Cost Feature Matching (MCFM):</strong> Reliable matching across varying AUV poses
 </p>
 
-<h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong> Refraction-Aware Pose Estimation</h3>
+<h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong>  Pose Estimation Considering Refraction (PER)</h3>
 <p>
-• <strong>Monocular-Binocular PER Algorithms:</strong> Novel refraction/distortion modeling<br>
+• <strong>Monocular-Binocular PER:</strong> Novel refraction/distortion modeling<br>
 • <strong>Closed-Form Jacobian:</strong> Enables stable pose updates
 </p>
 
-<h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong> Adaptive Fusion Framework</h3>
+<h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong> Fusion Pose Estimation (FPE) Framework</h3>
 <p>
-• <strong>Multi-Sensor Integration:</strong> Combines visual and odometry data<br>
+• <strong>Multi-Algorithm Integration:</strong> Combines PER and odometry <br>
 • <strong>Reliable Final-Stage Performance:</strong> Maintains accuracy during critical landing phase
 </p>
 
 <h3 style="color: #2d6db6; font-size: 1.4em;"><strong>•</strong> Comprehensive Validation</h3>
 <p>
-• <strong>Underwater Task Simulation System (UTSS):</strong> ROS/Gazebo digital twin implementation<br>
-• <strong>Field-Proven Results:</strong> Verified through simulation and real-world experiments
+• <strong>Underwater Task Simulation System (UTSS):</strong> Digital Twin Implementation Based on ROS and Gazebo<br>
+• <strong>Field-Proven Results:</strong> Verified through simulation and field experiments
 </p>
 </div>
