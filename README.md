@@ -16,7 +16,7 @@
 <hr style="border: 1px solid #eaecef;">
 
 
-<h2 style="font-size: 1.8em; color: #24292e; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em;">✨ Key Innovations</h2>
+<h2 style="font-size: 1.8em; color: #24292e; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em;">✨ Key Contributions</h2>
 
 <div style="font-size: 1.2em; line-height: 1.6;">
 
