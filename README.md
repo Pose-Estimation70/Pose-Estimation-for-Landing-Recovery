@@ -1,7 +1,7 @@
 <h1 style="font-size: 2.2em; color: #0366d6; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em;">Underwater Vision-Based Pose Estimation for AUV Landing Recovery</h1>
 
 <h2 style="font-size: 1.8em; color: #24292e;">📜 Paper Demonstration</h2>
-<p style="font-size: 1.2em;">
+<p style="font-size: 2.2em;">
 <strong>Title:</strong><br>
 <em style="font-size: 2.3em; color: #2d6db6;">Underwater Vision-Based Pose Estimation for AUV Landing Recovery: A Monocular-Binocular Fusion Approach</em>
 </p>
