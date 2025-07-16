@@ -16,12 +16,32 @@
 
 <hr style="border: 1px solid #eaecef;">
 
-<h2 style="font-size: 1.8em; color: #24292e;">✨ Key Features</h2>
-<ul style="font-size: 1.2em;">
-<li><strong style="font-size: 1.3em;">Hybrid Sensing</strong><br>
-Combines monocular depth estimation with binocular stereo vision.</li>
-<li><strong style="font-size: 1.3em;">Robust Pose Estimation</strong><br>
-Accurate AUV pose recovery in turbid underwater environments.</li>
-<li><strong style="font-size: 1.3em;">Real-Time Performance</strong><br>
-Optimized for embedded systems with limited computational resources.</li>
-</ul>
+
+<h2 style="font-size: 1.8em; color: #24292e; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em;">✨ Key Innovations</h2>
+
+<div style="font-size: 1.2em; line-height: 1.6;">
+
+<h3 style="color: #2d6db6; font-size: 1.4em;">🔍 Advanced Optical Vision Processing</h3>
+<p>
+• <strong>Guiding Light Detection (GLD):</strong> Robust detection in occluded/partial visibility conditions<br>
+• <strong>Minimum-Cost Feature Matching (MCFM):</strong> Reliable matching across varying AUV poses
+</p>
+
+<h3 style="color: #2d6db6; font-size: 1.4em;">📐 Refraction-Aware Pose Estimation</h3>
+<p>
+• <strong>Monocular-Binocular PER Algorithms:</strong> Novel refraction/distortion modeling<br>
+• <strong>Closed-Form Jacobian:</strong> Enables stable pose updates
+</p>
+
+<h3 style="color: #2d6db6; font-size: 1.4em;">🔄 Adaptive Fusion Framework</h3>
+<p>
+• <strong>Multi-Sensor Integration:</strong> Combines visual and odometry data<br>
+• <strong>Reliable Final-Stage Performance:</strong> Maintains accuracy during critical landing phase
+</p>
+
+<h3 style="color: #2d6db6; font-size: 1.4em;">🌊 Comprehensive Validation</h3>
+<p>
+• <strong>Underwater Task Simulation System (UTSS):</strong> ROS/Gazebo digital twin implementation<br>
+• <strong>Field-Proven Results:</strong> Verified through simulation and real-world experiments
+</p>
+</div>
