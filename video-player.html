@@ -3,26 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Player</title>
+    <title>Fullscreen Video Player</title>
     <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+        html, body {
             margin: 0;
-            background-color: #f9f9f9;
-            flex-direction: column;
+            padding: 0;
+            height: 100%;
+            background-color: black;
         }
         video {
-            max-width: 100%;
-            height: auto;
+            width: 100vw;
+            height: 100vh;
+            object-fit: contain;
+            background-color: black;
         }
     </style>
 </head>
 <body>
-    <h1>Video Player</h1>
-    <video controls>
+    <video controls autoplay>
         <source src="demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
