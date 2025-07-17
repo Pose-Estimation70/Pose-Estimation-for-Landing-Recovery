@@ -7,28 +7,23 @@
     <style>
         body {
             display: flex;
-            flex-direction: column;
+            justify-content: center;
             align-items: center;
+            height: 100vh;
             margin: 0;
             background-color: #f9f9f9;
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            text-align: center;
-            margin-top: 20px;
+            flex-direction: column;
         }
         video {
             max-width: 100%;
             height: auto;
-            display: block;
-            margin: 20px auto;
         }
     </style>
 </head>
 <body>
     <h1>Video Player</h1>
     <video controls>
-        <source src="demo_compression.mp4" type="video/mp4">
+        <source src="demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </body>
