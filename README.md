@@ -16,7 +16,7 @@
 <strong>Preview video:</strong><br>
 <em style="color: #6a737d; display: block; text-align: center;">Lower quality for preview purposes; Please download the original video for full quality</em>
 <p>
-   <a href="https://zzk-123-speic.github.io/Pose-Estimation-for-Landing-Recovery/video-player.html" style="display: block; max-width: 800px;">
+   <a href="https://zzk-123-speic.github.io/Pose-Estimation-for-Landing-Recovery/video-player.html" style="display: block;">
     <img src="https://raw.githubusercontent.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/main/demo.jpg" 
          alt="Demo Video Thumbnail" 
          style="max-width: 100%; border-radius: 4px; cursor: pointer;">
