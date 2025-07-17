@@ -14,12 +14,14 @@
 </p>  
 <!-- Video Thumbnail (Click to play) -->
 <p>
+   <strong>Preview video:</strong><br>
+   <em style="color: #6a737d; display: block; text-align: center;">Lower quality for preview purposes; Please download the original video for full quality</em>
    <a href="https://zzk-123-speic.github.io/Pose-Estimation-for-Landing-Recovery/video-player.html" style="display: block; max-width: 800px;">
     <img src="https://raw.githubusercontent.com/zzk-123-speic/Pose-Estimation-for-Landing-Recovery/main/demo.jpg" 
          alt="Demo Video Thumbnail" 
          style="max-width: 100%; border-radius: 4px; cursor: pointer;">
   </a>
-  <em style="color: #6a737d; display: block; text-align: center;">Click the image above to watch the video online (Streaming may be slow due to the large file size)</em>
+  <em style="color: #6a737d; display: block; text-align: center;">Click the image above to watch the video online</em>
 </p>
 <hr style="border: 1px solid #eaecef;">
 
